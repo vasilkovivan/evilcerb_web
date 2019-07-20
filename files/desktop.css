@@ -44,12 +44,16 @@ body:before {
 	height: 48px;
 	image-rendering: optimizeQuality;
 	transition: 1s;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 .icons:hover {
 	width: 64px;
 	height: 64px;
 	image-rendering: optimizeQuality;
 	transition: 1s;
+	margin-left: 5px;
+	margin-right: 5px;
 }
 .container {
 	padding-bottom: 10px;

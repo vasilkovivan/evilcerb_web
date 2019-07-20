@@ -23,7 +23,7 @@ body:before {
 #header {
 	font-family: "Roboto";
 	font-style: "Bold";
-	font-size: 80;
+	font-size: 120;
 	color: white;
 	transition: 1s;
 }
@@ -34,10 +34,12 @@ body:before {
 	color: white;
 }
 .icons {
-	width: 96px;
-	height: 96px;
+	width: 144px;
+	height: 144px;
 	image-rendering: optimizeQuality;
 	transition: 1s;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 .container {
 	height: 170px;
